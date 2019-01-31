@@ -1,3 +1,12 @@
+## OUTDATED fork of redis adapter for Sails
+
+This is a fork of the original, now-outdated *semantic* Redis adapter for Sails.js 0.12 - for the newest sails-redis that is much lighter-weight but also includes compatibility with Sails v^1.1, check out https://github.com/balderdashy/sails-redis
+
+
+> ### https://github.com/balderdashy/sails-redis
+
+<!--
+
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 
 # Redis Sails/Waterline Adapter 
@@ -131,3 +140,5 @@ See `CONTRIBUTING.md`.
 ## MIT License
 
 See `LICENSE.md`.
+
+-->
